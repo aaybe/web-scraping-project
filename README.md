@@ -1,9 +1,13 @@
 # web-scraping-project
 Quote guessing game. This program scrapes "quotes.toscrape.com" for quotes to make a quote author guessing game.
 
-To run BeautifulSoup will need to be installed:
+To run just clone repository. quote-scraper.py starts the game. BeautifulSoup will need to be installed:
 - $ pip install beautifulsoup4 
 
-Clone repository
+Program chooses a random quote from https://quotes.toscrape.com/ and displays it to the user. User then has 4 tries to write the name of the author.
+After each try the user is given a new hint. 
+1. User is given date and place of birth of author
+2. User is given author's first name initial
+3. User is given author's last name initial
 
-quote-scraper.py starts game
+After game ends, user is asked if they want to run again.
