@@ -1,5 +1,5 @@
 # web-scraping-project
-Quote guessing game. This program scrapes "quotes.toscrape.com" for quotes to make a quote author guessing game.
+Quote guessing game. This program scrapes "quotes.toscrape.com" for quotes and puts them on a csv file which is then called every time the user starts the program to make a quote author guessing game.
 
 To run just clone repository. quote-scraper.py starts the game. BeautifulSoup will need to be installed:
 - $ pip install beautifulsoup4 
