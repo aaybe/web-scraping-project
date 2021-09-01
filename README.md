@@ -3,7 +3,7 @@ Quote guessing game. This program scrapes "quotes.toscrape.com" for quotes to ma
 
 To run BeautifulSoup will need to be installed:
 - $ pip install beautifulsoup4 
-- 
--Clone repository
 
--quote-scraper.py starts game
+Clone repository
+
+quote-scraper.py starts game
