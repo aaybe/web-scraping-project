@@ -10,4 +10,6 @@ The program chooses a random quote from https://quotes.toscrape.com/ and display
 1. User is given date and place of birth of author
 2. User is given author's first name initial
 3. User is given author's last name initial
+
+
 After the game ends, the user is asked if they want to run again.
